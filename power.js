@@ -56,4 +56,4 @@ console.log(personalMovieDB);
 // personalMovieDB.movies[c] = d;
 
 
-// console.log(personalMovieDB);
+console.log(personalMovieDB);
